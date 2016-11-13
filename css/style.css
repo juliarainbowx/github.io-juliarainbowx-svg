@@ -25,8 +25,8 @@
 
 textarea {
   background-color: #D0F0C0;
-  color: white;
-  border: white;
+  color: black;
+  border: none;
   outline: none;
 
   padding: 0.5rem 1rem;
